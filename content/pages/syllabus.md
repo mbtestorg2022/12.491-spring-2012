@@ -32,15 +32,108 @@ This course is graded pass/fail, based upon the contribution to the discussion s
 Calendar
 --------
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 1 | Course overview |
-| 2 | Equilibrium / kinetic isotope effect |
-| 3 | How good we can make it? Precision and accuracy of mass-spectrometery analysis |
-| 4 | How mass-spectrometer works |
-| 5 | Clumped isotope CO2, 13CH3D |
-| 6 | Nitrous Oxide Isotopomer |
-| 7 | Mass-dependent fractionation O-17 small anomaly |
-| 8 | Mass-independent fractionation, O-17, Ozone, CO, stratspheric CO2, NO3, SO4 |
-| 9 | Mass-independent fractionation, S-33 |
-| 10 | O-17 hydrology
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course overview
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Equilibrium / kinetic isotope effect
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+How good we can make it? Precision and accuracy of mass-spectrometery analysis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+How mass-spectrometer works
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Clumped isotope CO2, 13CH3D
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Nitrous Oxide Isotopomer
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Mass-dependent fractionation O-17 small anomaly
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Mass-independent fractionation, O-17, Ozone, CO, stratspheric CO2, NO3, SO4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Mass-independent fractionation, S-33
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+O-17 hydrology
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
