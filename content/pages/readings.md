@@ -12,7 +12,7 @@ Schauble, Edwin A. "[Applying Stable Isotope Fractionation Theory to New Systems
 Practice and Principle of Isotope Fractionation
 -----------------------------------------------
 
-Hayes, John M. "[Practice and Principles of Isotopic Measurements in Organic Geochemistry." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://www.whoi.edu/fileserver.do?id=73290&pt=2&p=74886) (2002).
+Hayes, John M. "[Practice and Principles of Isotopic Measurements in Organic Geochemistry." (PDF)](http://www.whoi.edu/fileserver.do?id=73290&pt=2&p=74886) (2002).
 
 Mercury MIF
 -----------
