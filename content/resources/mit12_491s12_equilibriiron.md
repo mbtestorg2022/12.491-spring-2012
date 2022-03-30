@@ -4,6 +4,7 @@ description: Example student presentation on equilibrium iron isotope fractionat
   factors of minerals.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-491-non-conventional-light-stable-isotope-geochemistry-spring-2012/b4fbbc979c0e591290de8663ddebe9c9_MIT12_491S12_EquilibriIron.pdf
 file_type: application/pdf
+parent_uid: 2d02df90-dbb5-485c-e052-d544a607ef54
 resourcetype: Document
 title: 'Equilibrium iron isotope fractionation factors of minerals: Reevaluation from
   the data of nuclear inelastic resonant X-ray scattering and Mossbauer spectroscopy.'
